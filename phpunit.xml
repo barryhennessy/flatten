@@ -1,0 +1,6 @@
+<!--
+    Configures the phpunit test run.
+
+    Ensure you are in the same directory as this file before running tests.
+-->
+<phpunit bootstrap="test_bootstrap.php"></phpunit>
