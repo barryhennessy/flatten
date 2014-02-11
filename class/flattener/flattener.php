@@ -1,6 +1,6 @@
 <?php
 /**
- * Handles flattening of multidimensional arrays
+ * Handles flattening of multidimensional arrays.
  *
  * @author Barry Hennessy <barryhenn@gmail.com>
  */
