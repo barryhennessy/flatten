@@ -1,4 +1,4 @@
-flatten
+Flatten
 =======
 
 Sample code to flatten a arbitrarily nested arrays in order. Part of a coding assignment.
