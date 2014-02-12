@@ -1,7 +1,7 @@
 Flatten
 =======
 
-Sample code to flatten a arbitrarily nested arrays in order. Part of a coding assignment.
+Sample code to flatten a arbitrarily nested arrays in order. Part of a coding interview.
 
 ##### To run
 Call the script `flatten.php` with an arbitrarily nested json array of integers.
